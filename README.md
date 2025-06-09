@@ -99,8 +99,6 @@ ROC-AUC Curve
 
 👥 Authors
 
-Beatriz Nogueira Seabra
-
 Pedro Ferreira Oliveira Amaro
 
 Rui Jorge Marques de Almeida
